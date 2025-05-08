@@ -72,5 +72,5 @@ Crie uma **galeria de imagens** usando os conceitos apresentados no exemplo da T
 ## 🤝 **Dúvidas?**
 
 Caso tenha dúvidas, entre em contato pelo **Discord** ou pelo e-mail do professor. Bons estudos e divirta-se!
-
+## Resultado 
 ![alt text](image.png)
